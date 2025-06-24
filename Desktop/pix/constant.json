@@ -1,0 +1,14 @@
+{
+  "payload": "000201",
+  "merchantAccountInformationCode": "26",
+  "idBacen": "0014br.gov.bcb.pix",
+  "idChavePix": "01",
+  "merchantCategoryCode": "52040000",
+  "transactionCurrency_RealBrasileiro": "5303986",
+  "countryCode": "5802BR",
+  "merchantNameCode": "59",
+  "merchantCity": "60",
+  "city": "ARAUCARIA",
+  "additionalDataField": "62070503123",
+  "crc16": "6304"
+}
